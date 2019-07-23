@@ -1,7 +1,6 @@
 var express = require("express");
 var path = require("path");
 
-
 var app = express();
 var PORT = 3000;
 
@@ -10,13 +9,13 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 // Serve static content for the app from the "public" directory in the application directory.
-app.use(express.static("./app/public"));
+app.use(express.static(__dirname + "./app/public"));
 
 //ROUTER
 // The below points our server to a series of "route" files.
 // These routes give our server a "map" of how to respond when users visit or request data from various URLs.
-require('./app/routing/api-routes.js')(app);
-require('./app/routing/html-routes.js')(app);
+require('./app/routing/apiRoutes.js')(app);
+require('./app/routing/htmlRoutes.js')(app);
 
 
 //Starts server
