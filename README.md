@@ -20,8 +20,6 @@ Your result will be shown in a modal.
 
 <img src="./app/public/images/FriendFinder.png" width="800">
  
-
-
 ## Built With
 * node.js
 * JavaScript
