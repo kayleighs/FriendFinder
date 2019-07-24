@@ -16,7 +16,6 @@ Click "Go to Survey" to start the survey.
 Enter your name, add a picture, and answer the questions. You must answer all to continue. 
 <br>
 Your result will be shown in a modal.
-## Images
 
 <img src="./app/public/images/friendFinder.gif" width="800">
  
