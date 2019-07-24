@@ -18,7 +18,7 @@ Enter your name, add a picture, and answer the questions. You must answer all to
 Your result will be shown in a modal.
 ## Images
 
-<img src="./app/public/images/FriendFinder.gif" width="800">
+<img src="./app/public/images/friendFinder.gif" width="800">
  
 ## Built With
 * node.js
