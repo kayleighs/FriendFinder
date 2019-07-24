@@ -7,7 +7,7 @@ This full-stack site will take in results from your users' surveys, then compare
 The app will then display the name and picture of the user with the best overall match.
 
 ## Instructions
-Visit this link: [https://morning-tundra-77865.herokuapp.com/]
+[Visit this link to try on Heroku](https://morning-tundra-77865.herokuapp.com/)
 <br>
 
 ### To Use
