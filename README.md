@@ -26,6 +26,7 @@ Your result will be shown in a modal.
 * CSS
 * jQuery
 * [Bootstrap 4](https://getbootstrap.com/)-for CSS library
+* [Font Awesome](https://fontawesome.com/?from=io)- for icons
 * [express from npm](https://www.npmjs.com/package/express)-for interface in console
 
 ## Author
